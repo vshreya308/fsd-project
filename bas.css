@@ -1,0 +1,176 @@
+.c1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: blueviolet;
+   
+}
+/* body{
+    background-image: url('backg.jpg');
+    background-size: cover;
+    background-position: center;
+} */
+.container1{
+    margin-left: 20px;
+    position: absolute;
+    top:10px ;
+    width: 40px;
+}
+.block1 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 100px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+    
+}
+.container2{
+    margin-left: 440px;
+    position: absolute;
+    top:10px ;
+    width: 80px;
+}
+.block2 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 100px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+}
+.container3{
+    margin-left: 850px;
+    position: absolute;
+    top:10px ;
+    width: 80px;
+}
+.block3 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 100px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+}
+.container4{
+    margin-left: 440px;
+    position: absolute;
+    top:10px ;
+    width: 80px;
+}
+.block4 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 580px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+}
+.container5{
+    margin-left: 850px;
+    position: absolute;
+    top:10px ;
+    width: 80px;
+}
+.block5 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 580px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+}
+.container7{
+    margin-left: 20px;
+    position: absolute;
+    top:10px ;
+    width: 80px;
+}
+.block7 img{
+    background-color: rgb(45, 26, 88);
+    box-sizing:unset;
+    display: inline-block;
+    margin-top: 580px;
+    position: relative;
+    height: auto;
+    width: 400px;
+    margin-left: 29px;
+    padding: 10px,15px,10px,15px;
+    margin-left: -25px;
+    
+}
+.hr{
+    margin-top: 1000px;
+    /* border-top: 1px solid black; */
+}
+.a1{
+    margin-left: 150px;
+}
+/* .b1{
+    margin-top: -30px;
+}
+.b11{
+    margin-left: 90px; */
+    /* margin-top: -100px; */
+    /* margin-bottom: 300px; */
+    /* margin-top: -800px;
+} */
+
+  
+.button-container {
+    display: flex;
+    gap: 120px; /* Adjust the spacing between buttons as needed */
+  }
+  
+  /* Basic Button Styles */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Buy Now Button Styles */
+  .buy-now-btn {
+    background-color: #288ca7; /* Blue color, change to your desired color */
+  }
+  
+  /* Add to Cart Button Styles */
+  .add-to-cart-btn {
+    background-color: #2885a7; /* Green color, change to your desired color */
+  }
+  
+  /* Hover Styles */
+  .button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Active Styles */
+  .button:active {
+    transform: translateY(1px);
+  }
